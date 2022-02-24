@@ -1,0 +1,200 @@
+{
+    "points": [
+        {
+            "value": "100"
+        },
+        {
+            "value": "200"
+        },
+        {
+            "value": "400"
+        },
+        {
+            "value": "600"
+        },
+        {
+            "value": "800"
+        }
+    ],
+    "categories": [
+        {
+            "category": "Sports"
+        },
+        {
+            "category": "History"
+        },
+        {
+            "category": "Pop-Culture"
+        },
+        {
+            "category": "Food"
+        },
+        {
+            "category": "Science"
+        }
+    ],
+    "questions": [
+        {
+            "Sports": [
+                {
+                    "100": {
+                        "question": "2022 Winter Olympics city",
+                        "answer": "What is Beijing?"
+                    }
+                },
+                {
+                    "200": {
+                        "question": "Total championships won by Michael Jordan on the bulls",
+                        "answer": "What is 6?"
+                    }
+                },
+                {
+                    "400": {
+                        "question": "The only NFL team to go through an undefeated seaon and win the Superbowl.",
+                        "answer": "Who are the Miami Dolphins?"
+                    }
+                },
+                {
+                    "600": {
+                        "question": "In between the center and tackle. Typically.",
+                        "answer": "What is a guard?"
+                    }
+                },
+                {
+                    "800": {
+                        "question": "Holds the most goals in Bundesliga history with 365 in 427 appearances",
+                        "answer": "Who is Gerg Müller?"
+                    }
+                }
+            ],
+            "History": [
+                {
+                    "100": {
+                        "question": "5th President of the United States of America.",
+                        "answer": "Who is James Monroe?"
+                    }
+                },
+                {
+                    "200": {
+                        "question": " In 1945, scientists in this state witness the first denotation of the atomic bomb",
+                        "answer": "What is New Mexico?"
+                    }
+                },
+                {
+                    "400": {
+                        "question": "To combat fuel shortages, Congress enacted this for 10 months in 1974",
+                        "answer": "What is Daylight Savings?"
+                    }
+                },
+                {
+                    "600": {
+                        "question": "When King George VI visited this first lady and her husband, she served them hot dogs",
+                        "answer": "Who is Eleanor Roosevelt?"
+                    }
+                },
+                {
+                    "800": {
+                        "question": "the name of the landmark Supreme Court case that ruled the racial segregation of schools unconstitutional?",
+                        "answer": "What is Brown v. Board of Education?"
+                    }
+                }
+            ],
+            "Food": [
+                {
+                    "100": {
+                        "question": "This green ovular food, best with chips or on toast is actually considered a fruit",
+                        "answer": "What is an avocado?"
+                    }
+                },
+                {
+                    "200": {
+                        "question": "Vegetable also called a 'couregette'",
+                        "answer": "What is Zucchini?"
+                    }
+                },
+                {
+                    "400": {
+                        "question": "A spanish dish traditionally including saffron rice, seafood, chicken, chorizo and peas",
+                        "answer": "What is Paella?"
+                    }
+                },
+                {
+                    "600": {
+                        "question": "Commonly used oil in Chinese cooking",
+                        "answer": "What is peanut oil?"
+                    }
+                },
+                {
+                    "800": {
+                        "question": "They created Jell-O",
+                        "answer": "Who is Pearle Wait?"
+                    }
+                }
+            ],
+            "PopCulture": [
+                {
+                    "100": {
+                        "question": "Singer of 2021 Superbowl Halftime show.",
+                        "answer": "Who is The Weeknd"
+                    }
+                },
+                {
+                    "200": {
+                        "question": "Celebrity family who has over 20 seasons on E, with a new realease on Hulu",
+                        "answer": "Who are the Kardashians?"
+                    }
+                },
+                {
+                    "400": {
+                        "question": "Known for the Twilight Series and more recently, Bruce Wayne",
+                        "answer": "Who is Robert Pattinson?"
+                    }
+                },
+                {
+                    "600": {
+                        "question": "The mother of Maddox, Pax, Zahara, Shiloh, Knox and Vivienne",
+                        "answer": "Who is Angelina Jolie?"
+                    }
+                },
+                {
+                    "800": {
+                        "question": "This modern-day item made a cameo in the final season of Game of Thrones",
+                        "answer": "What is a starbucks cup?"
+                    }
+                }
+            ],
+            "Science": [
+                {
+                    "100": {
+                        "question": "The phenomena that keeps the planits in orbit around the sun",
+                        "answer": "What is gravity?"
+                    }
+                },
+                {
+                    "200": {
+                        "question": "The color of the sunset on this planet is blue",
+                        "answer": "What is Mars?"
+                    }
+                },
+                {
+                    "400": {
+                        "question": "This animal has the ability to sense electricity using the organs known as ampullae of Lorenzini",
+                        "answer": "What is a shark?"
+                    }
+                },
+                {
+                    "600": {
+                        "question": " “For every action, there is an equal and opposite reaction” is an example of one of these.",
+                        "answer": "What are Newton's Laws?"
+                    }
+                },
+                {
+                    "800": {
+                        "question": "Scientists use this word to describe a unit of measure. Also the name of an animal",
+                        "answer": "What is a mole?"
+                    }
+                }
+            ]
+        }
+    ]
+}
